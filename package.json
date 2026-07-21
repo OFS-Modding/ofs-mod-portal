@@ -1,0 +1,12 @@
+{
+  "name": "ofs-mod-portal",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node scripts/verify-portal.mjs"
+  },
+  "type": "module"
+}
